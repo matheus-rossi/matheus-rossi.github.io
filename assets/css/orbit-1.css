@@ -110,7 +110,8 @@ p {
 }
 
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding-top: 2em;
+  padding-left: 2em;
 }
 
 .sidebar-wrapper .container-block-title {
